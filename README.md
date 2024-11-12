@@ -2,4 +2,4 @@
 
 <img src="simplicial-complex.png" width="500" title="HNX logo">
 
-:page_facing_up: **[Paper]()** | :page_facing_up: **[arXiv](https://arxiv.org/abs/2411.02434)** | :paperclip: **[Docs]()** | :computer: **[Tutorials]()** | :floppy_disk: **[Data]()** | :bug: **[Report bug](https://github.com/jipphysics/hon-ranking/issues)** | :email: **[Reach us](juan.perotti@unc.edu.ar)**
+:page_facing_up: **[Paper]()** | :page_facing_up: **[arXiv](https://arxiv.org/abs/2411.02434)** | :paperclip: **[Doc](https://github.com/jipphysics/hon-ranking/blob/main/doc/doc.md)** | :computer: **[Tutorial](https://github.com/jipphysics/hon-ranking/blob/main/tutorial/tutorial.md)** | :floppy_disk: **[Data](https://github.com/jipphysics/hon-ranking/blob/main/data/data.md)** | :bug: **[Report bug](https://github.com/jipphysics/hon-ranking/issues)** | :email: **[Reach us](juan.perotti@unc.edu.ar)**
